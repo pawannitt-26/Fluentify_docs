@@ -1,4 +1,4 @@
-# LingQ Docs
+# Fluentify Docs
 
 Docasaurus repo for docs for LingQ
 
@@ -8,4 +8,3 @@ Docasaurus repo for docs for LingQ
 yarn
 yarn run start
 ```
-# LingQ-Docs

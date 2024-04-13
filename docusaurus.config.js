@@ -6,20 +6,20 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'LingQ',
+  title: 'Fluentify',
   tagline: "Unlocking Language Mastery: Where Learning Knows No Bounds!",
   favicon: 'img/icon.jpeg',
 
   // Set the production url of your site here
-  url: 'https://timewarp-docs.netlify.app',
+  url: 'https://pawannitt-26-github-io.onrender.com/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'LingQ', // Usually your GitHub org/user name.
-  projectName: 'LingQ Documentation', // Usually your repo name.
+  organizationName: 'Fluentify', // Usually your GitHub org/user name.
+  projectName: 'Fluentify Documentation', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -55,9 +55,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/icon.jpeg',
       navbar: {
-        title: 'LingQ',
+        title: 'Fluentify',
         logo: {
-          alt: 'LingQ',
+          alt: 'Fluentify',
           src: 'img/icon.jpeg',
         },
         items: [
@@ -105,7 +105,7 @@ const config = {
             items: [
               {
                 label: 'Our Website',
-                href: 'https://delta.nitt.edu/',
+                href: 'https://pawannitt-26-github-io.onrender.com/',
               },
             ],
           },
